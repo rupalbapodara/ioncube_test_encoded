@@ -1,1 +1,1 @@
-ioncube_test_encoded
+ioncube_test
